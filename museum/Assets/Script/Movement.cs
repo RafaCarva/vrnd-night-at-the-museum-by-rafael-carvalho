@@ -48,7 +48,7 @@ public class Movement : MonoBehaviour {
 			if (moving != true) {
 				raycastIndicator.transform.position = hit.point;
 			}
-			if (Vector3.Distance (raycastIndicator.transform.position, player.transform.position) <= 2.5f) {
+			if (Vector3.Distance (raycastIndicator.transform.position, player.transform.position) <= height) {
 				moving = false;
 			}
 		} else {
