@@ -18,6 +18,7 @@ MonoBehaviour:
   - pbGrowSelectionAngleIterative
   - pbEnableBackfaceSelection
   - pbUVMaterialPreview
+  - pbDefaultOpenInDockableWindow
   m_Int_keys:
   - pbDefaultEditLevel
   - pbHandleAlignment
@@ -34,7 +35,7 @@ MonoBehaviour:
   - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 010101010101
+  m_Bool_values: 00010101010101
   m_Int_values: 010000000200000002000000020000000100000000000000
   m_Float_values:
   - 0
