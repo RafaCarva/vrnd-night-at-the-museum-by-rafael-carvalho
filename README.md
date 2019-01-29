@@ -8,6 +8,7 @@ Projeto da formação "Nanodegree - Desenvolvedor de realidade virtual"
 - Projeto: Uma noite no museu
 - Plataforma: Android
 - Descrição: Um passeio em um museu virtual com exemplos de aplicações da realidade virtual em diversas áreas.
+![museum-screenshot](https://user-images.githubusercontent.com/13722768/51915053-54360f00-23c1-11e9-8d67-e6b5999e6b3f.png)
 
 ### Versões usadas
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
